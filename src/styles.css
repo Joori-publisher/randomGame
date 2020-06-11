@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.selectResultContainer {
+  display: none;
+}
+
+.showing {
+  display: block;
+}

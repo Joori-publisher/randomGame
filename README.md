@@ -1,2 +1,0 @@
-# randomGame
-Created with CodeSandbox
